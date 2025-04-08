@@ -48,10 +48,7 @@
 - 🧺 **Laundry Website**  
   A responsive website for laundry booking and tracking, built with HTML, CSS, JS, PHP & MySQL.
 
-- ⚔️ **CodeMaster Ninja Clash**  
-  A competitive coding contest system with DSA, bug-fixing, and CP problems for college students.
-
-- 🛠️ **TradeConnect (In Progress)**  
+- 🛠️ **TradeConnect**  
   A platform connecting tradespeople and customers using modern full-stack technologies.
 
 ---
