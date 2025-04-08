@@ -42,9 +42,6 @@
 
 ## 🌟 Featured Projects
 
-- 🚀 **Alumni Association Platform**  
-  A MERN stack app to help alumni connect, share opportunities, and stay engaged.
-
 - 🧺 **Laundry Website**  
   A responsive website for laundry booking and tracking, built with HTML, CSS, JS, PHP & MySQL.
 
