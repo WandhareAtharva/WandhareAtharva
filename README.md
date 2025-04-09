@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Atharva Wandhare</h1>
-<h3 align="center">Backend Developer | JavaScript Enthusiast | 3rd Year CSE @ DIEMS</h3>
+<h3 align="center">Backend Developer | JavaScript Enthusiast</h3>
 
 ---
 
